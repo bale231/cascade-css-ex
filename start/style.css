@@ -15,6 +15,14 @@ em {
 }
 
 .variant-em {
+  background-color: greenyellow;
+  color: black;
+  font-weight: bold;
+  font-style: inherit;
+}
+
+.content1 p {
+  border: 1px solid #ccc;
 }
 
 ul {
@@ -26,10 +34,16 @@ ul li {
 }
 
 .link1 a {
+  color: blue;
+  padding: 10px;
 }
 
 .link2 a {
+  color: inherit;
+  padding: 0;
 }
 
 .link3 a {
+  color: black;
+  padding: 5px;
 }
